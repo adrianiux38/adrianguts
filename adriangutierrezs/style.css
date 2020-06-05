@@ -8,7 +8,7 @@ body
 #header
 {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(image/neon.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('./image/neon.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -243,7 +243,7 @@ margin-bottom: 15px;
 .contact
 {
     padding-top:50px;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/Applications/MAMP/htdocs/b1/image/doors.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('./image/doors.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
