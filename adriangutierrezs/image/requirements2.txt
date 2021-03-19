@@ -1,5 +1,5 @@
 
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 flake8==3.4.1
 mccabe==0.6.1
 olefile==0.44
