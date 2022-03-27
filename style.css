@@ -257,6 +257,9 @@ margin-bottom: 15px;
     padding: 30px 0;
     font-size: 22px;
 }
+.contact .row a{
+    color: white;
+}
 .contact .col-md-4 .fa
 {
     padding: 10px;
@@ -289,6 +292,10 @@ margin-bottom: 15px;
 {
     margin-right: 10px;
 
+}
+
+.btn a{
+    color:white;
 }
 .footer
 {
